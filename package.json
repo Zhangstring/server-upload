@@ -1,7 +1,7 @@
 {
   "name": "server-upload",
   "version": "0.0.1",
-  "description": "",
+  "description": "Upload the local file to the specified directory in the server",
   "bin": "./bin/upload.js",
   "main": "./bin/upload.js",
   "scripts": {
