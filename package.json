@@ -1,0 +1,16 @@
+{
+  "name": "server-upload",
+  "version": "0.0.1",
+  "description": "",
+  "bin": "./bin/upload.js",
+  "main": "./bin/upload.js",
+  "scripts": {
+    "dev": "node bin/upload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "findup-sync": "^4.0.0",
+    "ssh2": "^0.8.6"
+  }
+}
